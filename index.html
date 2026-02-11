@@ -28,24 +28,34 @@
 
     <!-- header area start -->
     <header>
-        <div class="banner  container grid grid-cols-2 mt-[70px]">
+        <div class="banner  container grid grid-cols-1 md:grid-cols-2 mt-[70px] relative">
 
-            <div class="banner-content w-full max-w-[clamp(20rem,50vw,39.25rem) ">
-                <h1 class="banner-header text-[clamp(2rem,5vw,5rem)] font-extrabold ">It's good<br>tea time at The
-                    <br>Tea House
+            <!-- content -->
+            <div class="banner-content w-full max-w-[clamp(20rem,50vw,39.25rem) space-y-[clamp(1rem,2vw,1.875rem)]">
+                <h1 class="banner-header text-[clamp(2rem,5vw,4rem)] font-extrabold">It's good<br>tea time at The
+                    <br><span
+                        class="bg-gradient-to-r from-[#FF8938] to-[#FF0000] bg-clip-text text-transparent ">Tea</span>
+                    House
                 </h1>
-                <p class="banner-text">Tea and Botanical Solutions Supplier Give Optimum Satisfaction To Your Taste
+                <p class=" banner-text text-[#777777]">Tea and Botanical Solutions Supplier Give Optimum <br>
+                    Satisfaction To Your Taste
                     Buds.</p>
-                <button class="banner-btn">Explore More <span><i class="fa-solid fa-arrow-right"></i></span></button>
+                <button
+                    class="banner-btn text-white bg-gradient-to-r from-[#FF8938] to-[#FF0000] py-[18px] px-[clamp(0.75rem,2vw,1.25rem)] flex gap-2.5 rounded-[10px] text-[20px] font-bold">Explore
+                    More <span class="rotate-[-45deg]"><i class="fa-solid fa-arrow-right-long"></i></span></button>
             </div>
 
-            <div class="banner-img max-w-[clamp(22rem,55vw,40.9375rem)] relative">
-                <img class="w-full h-auto absolute " src="./images/banner.png" alt="">
-                <div>
+            <!-- image -->
+            <div class="banner-img  flex justify-center items-center md:justify-end md:items-end relative">
+                <div class="max-w-[clamp(22rem,55vw,40.9375rem)] pt-[50px]">
+                    <img class="w-full h-auto " src="./images/banner.png" alt="">
+                </div>
+                <div
+                    class="flex items-center justify-between  w-[270px] gap-3 py-5 px-[26px] bg-white absolute bottom-[-54px] md:bottom-5 lg:bottom-3  md:left-1/2 md:-translate-x-2/2 rounded-[10px] z-[1] shadow-lg">
                     <img src="./images/star.png" alt="">
                     <div>
-                        <h4>5.00</h4>
-                        <p>Trust Pilot Ratings</p>
+                        <h4 class="text-[clamp(1.2rem,3vw,1.875rem)] font-extrabold ">5.00</h4>
+                        <p class="font-semibold text-[#777777]">Trust Pilot Ratings</p>
                     </div>
                 </div>
             </div>
@@ -58,6 +68,8 @@
     <main>
         <section>
 
+
+            
         </section>
 
 
