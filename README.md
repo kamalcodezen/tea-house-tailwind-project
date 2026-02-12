@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="./assets/preview.png" width="100%" alt="Tea House Banner Preview"/>
+![Preview](preview.png)
 </p>
-
+  
 <p align="center">
   <a href="https://kamalcodezen.github.io/tea-house-tailwind-project/">
     <img src="https://img.shields.io/badge/Live%20Demo-View%20Project-FF0000?style=for-the-badge&logo=vercel&logoColor=white"/>
