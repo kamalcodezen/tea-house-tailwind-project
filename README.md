@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-![Preview](preview.png)
+  <img src="./preview.png" width="100%" alt="Tea House Preview"/>
 </p>
   
 <p align="center">
