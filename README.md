@@ -73,5 +73,17 @@ This version represents my effort to move closer to a professional frontend deve
 
 ---
 
-## 📂 Project Structure
+
+## 👨‍💻 Author
+
+**Kamal Uddin**  
+Frontend Developer (Learning Phase)  
+Focused on building modern, responsive & professional UI.
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub.  
+It motivates me to keep improving!
 
