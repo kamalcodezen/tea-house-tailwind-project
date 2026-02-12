@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/preview(4).png" width="100%" alt="Tea House Banner Preview"/>
+  <img src="./assets/preview (4).png" width="100%" alt="Tea House Banner Preview"/>
 </p>
 
 <p align="center">
